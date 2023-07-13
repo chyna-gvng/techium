@@ -260,6 +260,7 @@ body {
 }
 
 .nav .nav-link {
+  color: var(--color-white);
   display: block;
   padding: 0.5rem 1rem;
 }
