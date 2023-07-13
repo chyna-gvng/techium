@@ -474,7 +474,7 @@ a:active {
   padding: 10rem 40rem 2rem 0;
 }
 
-.section-hero > .section-inner > .button {
+.section-inner .button {
   color: var(--color-white);
 }
 
