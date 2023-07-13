@@ -474,6 +474,10 @@ a:active {
   padding: 10rem 40rem 2rem 0;
 }
 
+.section-hero > .section-inner > .button {
+  color: var(--color-white);
+}
+
 .row::after {
   content: "";
   display: table;
